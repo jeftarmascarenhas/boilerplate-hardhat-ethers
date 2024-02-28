@@ -1,0 +1,5 @@
+{
+  "filter_paths": "(mocks/|test/|@openzeppelin/)",
+  "solc_remaps": "@openzeppelin=node_modules/@openzeppelin @chainlink=node_modules/@chainlink",
+  "exclude": "naming-convention,external-function,low-level-calls,solc-version"
+}

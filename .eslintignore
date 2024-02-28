@@ -1,0 +1,10 @@
+# folders
+artifacts
+cache
+contracts
+node_modules/
+typechain-types
+coverage
+# files
+**/*.json
+hardhat.config.ts
